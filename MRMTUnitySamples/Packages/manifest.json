@@ -53,6 +53,11 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.microsoft.mrtk.tts.windows": "file:MixedReality/com.microsoft.mrtk.tts.windows-1.0.1.tgz",
+    "org.mixedrealitytoolkit.accessibility": "file:MixedReality/org.mixedrealitytoolkit.accessibility-1.0.0-pre.18.tgz",
+    "org.mixedrealitytoolkit.audio": "file:MixedReality/org.mixedrealitytoolkit.audio-3.0.0.tgz",
+    "org.mixedrealitytoolkit.uxcomponents.noncanvas": "file:MixedReality/org.mixedrealitytoolkit.uxcomponents.noncanvas-3.1.0.tgz",
+    "org.mixedrealitytoolkit.windowsspeech": "file:MixedReality/org.mixedrealitytoolkit.windowsspeech-3.0.0.tgz"
   }
 }
